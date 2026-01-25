@@ -14,11 +14,9 @@ It begins as a standard image classification task and evolves into a representat
   - Embedding extraction  
   - Multimodal experiment  
 
-- 'image_embeddings.csv'
-  Output file containing 512-dimensional image embeddings.
+- 'houses_details.csv'
+  Csv file needed for the multimodal pipeline
 
-- 'house_visual_features.csv'
-  Synthetic multimodal dataset created by assigning and aggregating image embeddings per house.
 - The images are not stored in this repository due to size limits.
   Download them from:
   https://www.kaggle.com/datasets/stepanyarullin/interior-design-styles
