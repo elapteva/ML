@@ -19,8 +19,9 @@ It begins as a standard image classification task and evolves into a representat
 
 - 'house_visual_features.csv'
   Synthetic multimodal dataset created by assigning and aggregating image embeddings per house.
-- 'archive'
-  Folder with images for training and testing
+- The images are not stored in this repository due to size limits.
+  Download them from:
+  https://www.kaggle.com/datasets/stepanyarullin/interior-design-styles
 
 
 
